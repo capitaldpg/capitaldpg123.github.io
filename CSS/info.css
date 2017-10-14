@@ -1,0 +1,76 @@
+.container{
+	width:1000;
+	height:300;
+	position: absolute;
+	top: 100px;
+	display: flex;
+	margin-left: 10px;
+}
+
+
+.ho{
+	width: 200px;
+	height: 200px;
+	border-radius: 30px;
+	position: absolute;
+	left: 60px;
+	top: 30;
+	bottom: 200px;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 30px;
+	position: absolute;
+	left: 60px;
+	top: 30;
+	bottom: 200px;
+}
+
+img:hover{
+	opacity: 0;
+}
+
+.box{
+	padding: 10px;
+	flex:1;
+	margin-left: 10px;
+	border: 10px inset;
+	background-color: #696969;
+
+
+}
+
+p{
+	color: white;
+	font-size: 20;
+	font-family: Fixedsys;
+}
+body{
+
+}
+.p1{
+
+	font-weight: bold;
+	font-size: 30;
+	color: #FFFF00;
+	font-family: Forte;
+}
+.p11{
+	font-weight: bold;
+	font-size: 30;
+	color: #FFFF00;
+	position: absolute;
+	top: 200px;
+	font-family: Forte;
+}
+
+.p11:hover{
+	font-weight: bold;
+	font-size: 30;
+	color: white;
+	position: absolute;
+	top: 200px;
+	font-family: Forte;
+}

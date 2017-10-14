@@ -1,0 +1,54 @@
+p{
+	font-family: Courier New;
+	color: #F0FFFF;
+	font-size: 25;
+	
+
+}
+
+.containercontact{
+	margin-top: 150px;
+	margin-left: 350px;
+
+}
+
+.box{
+	
+	margin-bottom: 100px;
+	
+
+
+}
+
+.boxx{
+	
+	margin-bottom: 50px;
+
+}
+
+	.boxxx{
+	margin-bottom: 100px;
+
+}
+
+img{
+	width: 100px;
+	height: 100px;
+
+}
+.im2{
+	position: absolute;
+	right: 700px;
+	bottom: 360px;
+}
+.im1{
+	position: absolute;
+	right: 700px;
+	bottom: 230px;
+}
+
+.im3{
+	position: absolute;
+	right: 700px;
+	bottom: 130px;
+}

@@ -1,0 +1,48 @@
+.container{
+
+	
+	
+	width:1040;
+	height:525;
+	display: flex;
+
+
+
+
+
+}
+.box{
+
+ 
+ margin-left: 10px;
+}
+.boxx{
+  
+ margin-left: 10px;
+
+
+}
+img{
+	width: 300;
+	height: 300;
+	position: absolute;
+	bottom: 20px;
+	margin-left: 50px;
+	opacity: 0.5;
+
+}
+p{
+	color: #F0FFFF;
+	font-size: 25;
+	font-family: Courier New;
+	
+
+}
+h1{
+	text-decoration: underline;
+	font-weight: bold;
+font-family: Courier New;
+	color: #F0FFFF;
+	font-size: 25;
+	
+}
